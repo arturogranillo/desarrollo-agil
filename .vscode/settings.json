@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["sesion-3/src"],
+    "java.project.outputPath": "sesion-3/bin",
+    "java.project.referencedLibraries": [
+        "sesion-3/lib/**/*.jar"
+    ]
+}
