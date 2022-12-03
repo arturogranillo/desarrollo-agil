@@ -12,7 +12,7 @@ variable "secret_key" {
 
 variable "ami_id" {
   description = "The AMI to use"
-  default     = "ami-09d56f8956ab235b3"
+  default     = "ami-49d11f8951ac456b4"
 }
 
 variable "instance_type" {
