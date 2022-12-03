@@ -26,7 +26,7 @@ Formatear a los archivos tf
 Inicializa terraform
 * terraform init
 
-Plan
+Genera el plan de cambios
 * terraform plan
 
 Aplica cambios
@@ -36,7 +36,7 @@ Muestra archivos terraform
 * terraform output
 
 Destruye
-*terraform destroy
+* terraform destroy
 
 3. Crear nuestro primer despliegue
 
