@@ -45,7 +45,7 @@ Verificamos
 * docker container list
 
 Variables de ambiente para MYSQL
-Manage Jenkins > Configure System > Environment variables
-MYSQL_IP - 172.17.0.7
-MYSQL_PASSWORD - juan-1234-lopez
-MYSQL_USER - root
+* Manage Jenkins > Configure System > Environment variables
+* MYSQL_IP - 172.17.0.7
+* MYSQL_PASSWORD - juan-1234-lopez
+* MYSQL_USER - root
