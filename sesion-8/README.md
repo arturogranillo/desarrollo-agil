@@ -16,3 +16,5 @@
 6. Configurar los parámetros para la evaluación de la aplicación en modo dinámico
 7. Agregar proceso de rollback en caso de que se encuentren cambios
 8. Agregar pruebas ap
+
+https://github.com/88randy/BEDU-S08-PW-pet-clinic
